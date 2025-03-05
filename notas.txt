@@ -1,3 +1,4 @@
 En este archivo llevamos el control y análisis del desarrollo de las fundas para celular "newprotect"
 aquí archivaremos todo el progreso, temas relacionados con gastos y problemas que sufra el desarrollo
-del producto. 
+del producto.
+Este proyecto es realizado por Santiago Berbecia, Ariel Altamirano y Amy Castillo.
